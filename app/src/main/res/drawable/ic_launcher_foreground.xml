@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Artwork stays inside the central 66x66 safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,32C39.6,32 28,41.7 28,53.7C28,60.9 32.1,67.3 38.5,71.2L36.5,80L46.5,74.1C48.9,74.7 51.4,75 54,75C68.4,75 80,65.3 80,53.3C80,41.3 68.4,32 54,32Z" />
+
+    <path
+        android:fillColor="#FF1C2B4A"
+        android:pathData="M58.5,42.5L45,58.5L52,58.5L49.5,68.5L64,52L56.5,52Z" />
+</vector>
